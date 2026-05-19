@@ -22,7 +22,7 @@
 > 🚧 **Note:** Code and model weights will be released soon. 
 
 ## 1-Min Overview 🚀
-<video src="./assets/LiteFrame.mp4" controls="controls" width="100%"></video>
+https://github.com/user-attachments/assets/2635438a-1be7-4bfb-aedc-add1c77c72e8
 
 ## News 📰
 * **[2026.05.18]** Our paper, *LiteFrame: Efficient Vision Encoders Unlock Frame Scaling in Video LLMs*, has been archived.
